@@ -86,7 +86,7 @@ python "gui_test - 1.0.2.py"
 **方式 B（命令行，推荐）**：
 
 ```bat
-cd /d G:\Python_Code\GUI_TEST
+cd /d 你的项目目录\GUI_TEST
 python gui_test.py
 ```
 
